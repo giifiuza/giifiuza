@@ -1,5 +1,5 @@
 
-## Hello, I'm Fiuza 👋 
+## Hi there, I'm Fiuza 👋 
  
 <div align="center"
  <a href="https://github.com/giifiuza"></a>
